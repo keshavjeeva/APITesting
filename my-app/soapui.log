@@ -1,0 +1,32 @@
+2021-05-25 01:00:20,456 WARN  [SoapUI] Missing folder [C:\Users\KesavarajSelvaraj\Desktop\handsOnProject\my-app\ext] for external libraries
+2021-05-25 01:00:20,747 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\KesavarajSelvaraj\soapui-settings.xml]
+2021-05-25 01:00:22,383 INFO  [WsdlProject] Loaded project from [file:/C:/Users/KesavarajSelvaraj/Desktop/handsOnProject/my-app/Calculator-soapui-project.xml]
+2021-05-25 01:00:22,710 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Calculator]
+2021-05-25 01:00:22,712 INFO  [SoapUITestCaseRunner] Running Project [Calculator], runType = SEQUENTIAL
+2021-05-25 01:00:22,745 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [PropertyTransferTestCase]
+2021-05-25 01:00:22,758 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-05-25 01:00:22,830 INFO  [SoapUITestCaseRunner] running step [Property Transfer for Add]
+2021-05-25 01:00:23,141 INFO  [SoapUITestCaseRunner] running step [Add]
+2021-05-25 01:00:23,702 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-25 01:00:23,703 INFO  [SoapUITestCaseRunner] running step [Property Transfer for Subtract]
+2021-05-25 01:00:23,713 INFO  [SoapUITestCaseRunner] running step [Subtract]
+2021-05-25 01:00:23,851 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-25 01:00:23,852 INFO  [SoapUITestCaseRunner] running step [Property Transfer for Multiply]
+2021-05-25 01:00:23,874 INFO  [SoapUITestCaseRunner] running step [Multiply]
+2021-05-25 01:00:23,966 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-25 01:00:23,966 INFO  [SoapUITestCaseRunner] running step [Property Transfer for Divide]
+2021-05-25 01:00:23,971 INFO  [SoapUITestCaseRunner] running step [Divide]
+2021-05-25 01:00:24,087 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-25 01:00:24,092 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [PropertyTransferTestCase], time taken: 1293ms, status: FINISHED
+2021-05-25 01:00:24,099 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [PropertyExpansionTestCase]
+2021-05-25 01:00:24,100 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-05-25 01:00:24,106 INFO  [SoapUITestCaseRunner] running step [Division]
+2021-05-25 01:00:24,245 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-25 01:00:24,245 INFO  [SoapUITestCaseRunner] running step [Multiply]
+2021-05-25 01:00:24,363 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-25 01:00:24,366 INFO  [SoapUITestCaseRunner] running step [Add]
+2021-05-25 01:00:24,498 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-25 01:00:24,498 INFO  [SoapUITestCaseRunner] running step [Subtract]
+2021-05-25 01:00:24,588 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-25 01:00:24,590 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [PropertyExpansionTestCase], time taken: 472ms, status: FINISHED
+2021-05-25 01:00:24,596 INFO  [SoapUITestCaseRunner] Project [Calculator] finished with status [FINISHED] in 1879ms
